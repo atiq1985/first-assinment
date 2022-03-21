@@ -48,3 +48,35 @@ body{
 p{
     text-align: justify;
 }
+.third-section{
+    text-align: center;
+    font-size: 30px;
+    width: 50%;
+    margin-left: 25%;
+}
+.quater-width{
+    width: 25%;
+    padding: 10px 15px 0px 15px;
+    margin: 3%;
+    font-size: 30px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    
+}
+.quater-width img{
+    width: 100%;
+}
+.footer-section{
+   display: flex;
+    width: 80%;
+    font-size: 30px;
+    margin-left: 10%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+
+   
+}
+.Subscribers{
+    padding-left: 10%;
+    text-align: center;
+}
